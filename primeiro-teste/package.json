@@ -1,0 +1,17 @@
+{
+  "name": "Projetos",
+  "version": "1.0.0",
+  "main": "Untitled-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "cypress open", 
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
